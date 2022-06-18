@@ -33,3 +33,5 @@
     - "PARABÉNS! VOCÊ ADVINHOU O NÚMERO EM X TENTATIVAS"
 
     - SUBSTITUA O "X" DA MENSAGEM, PELO NÚMERO DE TENTATIVAS
+
+6. Solte dentro do elemento abaixo uma lista de todos os anos em que houve a Copa do Mundo de Futebol, desde 1930 até 2022. Lembre-se que a copa do mundo ocorre de 4 em 4 anos.
